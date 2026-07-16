@@ -1,0 +1,2 @@
+# TraderBoard
+Dashboard de Trading
